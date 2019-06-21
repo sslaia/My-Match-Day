@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Club Match Day</string>
+    <string name="my_club_name">Liverpool FC</string>
+    <string name="opponent_name">Opponent Club</string>
+    <string name="versus_text">VS.</string>
+    <string name="goals">Goal(s)</string>
+    <string name="points">Point(s)</string>
+    <string name="table_position">Table Position</string>
+    <string name="champions_league">Champions League</string>
+    <string name="red_cards">Red card(s)</string>
+    <string name="yellow_cards">Yellow Card(s)</string>
+    <string name="penalties">Penalties</string>
+    <string name="corners">Corner(s)</string>
+    <string name="btn_goal">Goal</string>
+    <string name="btn_red_card">Red Card</string>
+    <string name="btn_yellow_card">Yellow Card</string>
+    <string name="btn_penalty">Penalty</string>
+    <string name="btn_corner">Corner</string>
+    <string name="reset_button">Reset</string>
+</resources>
